@@ -1,0 +1,6 @@
+[
+  { "id": 1, "name": "kl", "degree": [1, 2, 3], "degTotal": 7 },
+  { "id": 2, "name": "a", "degree": [20, 30, 50], "degTotal": 101 },
+  { "id": 3, "name": "a", "degree": [1, 2, 3], "degTotal": 7 },
+  { "id": 4, "name": "a", "degree": [20, 30, 50], "degTotal": 100 }
+]
